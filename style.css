@@ -111,7 +111,6 @@ nav {
     border: 2px solid rgb(211, 247, 12);
 }
 
-
 .persuasion-block h1 {
     margin-top: 50px;
     margin-bottom: 30px;
@@ -164,8 +163,6 @@ nav {
     border: 2px solid rgb(245, 24, 9);
 }
 
-
-
 #join-btn {
     background-color: #17202A;
     border-style: none;
@@ -185,7 +182,6 @@ nav {
     font-weight: light;
     margin-left: 100px;
 }
-
 
 /* FOOTER */
 .gallery {
@@ -236,7 +232,6 @@ footer p {
 }
 
 /* MEDIA */
-
 @media screen and (max-width: 768px) {
 
    .container {
@@ -266,8 +261,6 @@ footer p {
     border-radius: 3px;
     margin:auto;
 }
-
-/* MAIN */
 
 .registration-area {
     background-color:#D5DBDB;
@@ -307,10 +300,7 @@ footer p {
 }
 
 #fname {
-    
-   
-    margin-left: 55px;
-    
+    margin-left: 55px; 
     border: 2px solid rgb(245, 24, 9);
 }
 
@@ -345,6 +335,5 @@ footer p {
 
 img {
     margin-bottom: 10px;
-}
-   
+}  
 }
